@@ -1,0 +1,9 @@
+BASE_URL = "https://www.booking.com"
+CURRENCY = 'USD'
+LANGUAGE = 'ru'
+PLACE_TO_GO = 'New York'
+CHECK_IN = '2022-06-10'
+CHECK_OUT = '2022-06-15'
+ADULTS = 2
+CHILDREN = 1
+CHILDREN_AGE = 5
